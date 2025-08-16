@@ -1,0 +1,6 @@
+f = open("PYTHON-BASIC/9text.py",'r') 
+while True:
+    line =  f.readline()  # Read one line at a time
+    print(line, end='')  # Print the line without adding extra newlinei
+    if not line:
+        break
