@@ -97,7 +97,6 @@ python-basics-course/
 **Sanskrati Patel**
 
 * 📧 [Email](mailto:patelsanskrati05@gmail.com)
-* 🌐 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
 
 ---
 
