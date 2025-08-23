@@ -194,7 +194,7 @@ python-basics-course/
 ---
 
 
-## 👩‍💻 Author
+##  Author
 
 **Sanskrati Patel**
 
