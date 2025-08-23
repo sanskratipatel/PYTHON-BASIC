@@ -84,7 +84,7 @@ python-basics-course/
 
 ---
 
-## 📌 Next Steps
+## Next Steps
 
 * Explore **advanced Python topics** (decorators, context managers, async programming).
 * Work on **mini-projects** using these concepts.
