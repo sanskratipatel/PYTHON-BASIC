@@ -6,7 +6,7 @@ The goal of this repo is to demonstrate my understanding of **core Python concep
 
 ---
 
-## 📚 Topics Covered
+##  Topics Covered
 
 ### 🔹 Python Fundamentals
 - Variables, Data Types (int, float, string, list, dict, tuple, set)
